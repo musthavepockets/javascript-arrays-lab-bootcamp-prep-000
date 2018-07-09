@@ -22,4 +22,4 @@ function destructivelyRemoveFirstKitten() {
 }
 
 morekittens = appendKitten('Broom')
-  return morekittens
+return morekittens
