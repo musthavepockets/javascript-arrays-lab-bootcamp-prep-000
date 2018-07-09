@@ -22,4 +22,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 kittens.appendKitten('Broom')
+
 return kittens
